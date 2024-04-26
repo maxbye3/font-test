@@ -1,0 +1,79 @@
+/* Define @font-face for Roboto Black Italic */
+@font-face {
+    font-family: 'Roboto-BlackItalic';
+    src: url('../fonts/Roboto/Roboto-Black.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Black */
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('../fonts/Roboto/Roboto-Black.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Bold */
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Bold Italic */
+@font-face {
+    font-family: 'Roboto-BoldItalic';
+    src: url('../fonts/Roboto/Roboto-BoldItalic.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Italic */
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Light */
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Light Italic */
+@font-face {
+    font-family: 'Roboto-LightItalic';
+    src: url('../fonts/Roboto/Roboto-LightItalic.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Medium */
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../fonts/Roboto/Roboto-Medium.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Medium Italic */
+@font-face {
+    font-family: 'Roboto-MediumItalic';
+    src: url('../fonts/Roboto/Roboto-MediumItalic.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Regular */
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Thin */
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('../fonts/Roboto/Roboto-Thin.ttf') format('truetype');
+}
+
+/* Define @font-face for Roboto Thin Italic */
+@font-face {
+    font-family: 'Roboto-ThinItalic';
+    src: url('../fonts/Roboto/Roboto-ThinItalic.ttf') format('truetype');
+}
+
+h1 {
+    font-family: 'Roboto-Bold', sans-serif;
+}
+
+p {
+    font-family: 'Roboto-Thin', sans-serif;
+}
